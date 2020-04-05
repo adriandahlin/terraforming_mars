@@ -5,4 +5,4 @@ This is an app to manage resource production in the popular board game Terraform
 mars.py uses object-oriented programming and centers around the class "Player". Each player has the following types of attributes:
 - Terraform Rating (one)
 - Current cache for each resource (six)
-- Resource production rate for each resource (six)
+- Production rate for each resource (six)
